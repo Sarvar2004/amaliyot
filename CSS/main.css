@@ -1,0 +1,17 @@
+.contain{
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translate(-59%, -50%);
+    width: 500px;
+    border: 1px solid red;
+}
+.contain.none {
+    display: none;
+}
+.savol{
+    width: 300px;
+}
+.contain .inputSavol{
+    padding-top: 10px;
+}
